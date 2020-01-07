@@ -9,8 +9,8 @@ class DeviceConfigV1Schema extends pip_services3_commons_node_1.ObjectSchema {
         super();
         this.withOptionalProperty('id', pip_services3_commons_node_3.TypeCode.String);
         this.withRequiredProperty('org_id', pip_services3_commons_node_3.TypeCode.String);
-        this.withOptionalProperty('sent_time', null); //TypeCode.DateTime);
-        this.withOptionalProperty('received_time', null); //TypeCode.DateTime);
+        this.withOptionalProperty('sent_time', pip_services3_commons_node_3.TypeCode.DateTime);
+        this.withOptionalProperty('received_time', pip_services3_commons_node_3.TypeCode.DateTime);
         this.withOptionalProperty('params', new pip_services3_commons_node_2.ArraySchema(new ConfigParameterValueV1Schema_1.ConfigParameterValueV1Schema()));
     }
 }
