@@ -1,0 +1,1 @@
+{"version":3,"file":"DeviceConfigsMemoryPersistence.js","sourceRoot":"","sources":["../../../src/persistence/DeviceConfigsMemoryPersistence.ts"],"names":[],"mappings":";;AAAA,IAAI,CAAC,GAAG,OAAO,CAAC,QAAQ,CAAC,CAAC;AAK1B,qEAAwE;AAKxE,MAAa,8BACT,SAAQ,uDAAqD;IAG7D;QACI,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,YAAY,GAAG,IAAI,CAAC;IAC7B,CAAC;CAEJ;AATD,wEASC"}
